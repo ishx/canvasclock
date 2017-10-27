@@ -4,7 +4,7 @@
 
 Build an analog clock using HTML canvas.
 
-![alt text](https://github.com/ishxiao/canvasclock/blob/master/assets/img/canvasclock.png "Canvas Clock")
+![alt text](https://github.com/ishx/canvasclock/blob/master/assets/img/canvasclock.png "Canvas Clock")
 
 Table of contents
 
@@ -32,7 +32,7 @@ Table of contents
 
 The clock needs an HTML container. Create an HTML canvas:
 
-![alt text](https://github.com/ishxiao/canvasclock/blob/master/assets/img/canvasclock-1.png "Canvas Clock 1")
+![alt text](https://github.com/ishx/canvasclock/blob/master/assets/img/canvasclock-1.png "Canvas Clock 1")
 
 HTML code:
 
@@ -138,7 +138,7 @@ function drawClock() {
 
 The clock needs a clock face. Create a JavaScript function to draw a clock face:
 
-![alt text](https://github.com/ishxiao/canvasclock/blob/master/assets/img/canvasclock-2.png "Canvas Clock 2")
+![alt text](https://github.com/ishx/canvasclock/blob/master/assets/img/canvasclock-2.png "Canvas Clock 2")
 
 JavaScript:
 
@@ -240,7 +240,7 @@ ctx.fill();
 
 The clock needs numbers. Create a JavaScript function to draw clock numbers:
 
-![alt text](https://github.com/ishxiao/canvasclock/blob/master/assets/img/canvasclock-3.png "Canvas Clock 3")
+![alt text](https://github.com/ishx/canvasclock/blob/master/assets/img/canvasclock-3.png "Canvas Clock 3")
 
 JavaScript:
 
@@ -305,7 +305,7 @@ for(num= 1; num < 13; num++) {
 
 The clock needs hands. Create a JavaScript function to draw clock hands:
 
-![alt text](https://github.com/ishxiao/canvasclock/blob/master/assets/img/canvasclock-4.png "Canvas Clock 4")
+![alt text](https://github.com/ishx/canvasclock/blob/master/assets/img/canvasclock-4.png "Canvas Clock 4")
 
 JavaScript:
 
@@ -374,7 +374,7 @@ The drawHand() routine does not need an explanation. It just draws a line with a
 
 To start the clock, call the drawClock function at intervals:
 
-![alt text](https://github.com/ishxiao/canvasclock/blob/master/assets/img/canvasclock-5.png "Canvas Clock 5")
+![alt text](https://github.com/ishx/canvasclock/blob/master/assets/img/canvasclock-5.png "Canvas Clock 5")
 
 JavaScript:
 
