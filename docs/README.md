@@ -1,3 +1,6 @@
+---
+title: Canvas Clock
+---
 # Canvas Clock
 
 [Xiao Shang](http://github.com/ishx)
