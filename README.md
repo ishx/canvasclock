@@ -1,6 +1,6 @@
 # Canvas Clock
 
-[Xiao Shang](http://github.com/ishx)
+[Xiao Shang](https://github.com/ishx/)
 
 Build an analog clock using HTML canvas.
 
